@@ -9,7 +9,7 @@
             Welcom to Our blog post
         </h1>
         <div class="page-banner__intro">
-          <p>This needs to be updated.</p>
+          <p>This needs to be updated to date 07-01-2026.</p>
         </div>
       </div>
 </div>
