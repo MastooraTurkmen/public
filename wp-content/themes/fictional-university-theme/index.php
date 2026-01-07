@@ -9,7 +9,7 @@
             Welcom to Our blog post
         </h1>
         <div class="page-banner__intro">
-          <p>Learn how the school of your dreams got started.</p>
+          <p>This needs to be updated.</p>
         </div>
       </div>
 </div>
